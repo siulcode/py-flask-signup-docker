@@ -1,2 +1,2 @@
 # py-xample-signup-docker
-VERSION 1
+VERSION 2
